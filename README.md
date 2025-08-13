@@ -19,7 +19,7 @@ Live Demo: https://Ankankun.github.io/Cafe-Menu/
 ## What I learned
 - Building a semantic, responsive page
 - Typography and spacing fundamentals
-- Flexbox for aligning menu items
+- Pseodo-Classes and Element States
 - Small accessibility improvements (focus styles, link states)
 
 ## Screenshot

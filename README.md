@@ -2,8 +2,8 @@
 
 A simple, responsive cafe menu built as part of my learning journey through freeCodeCamp’s Responsive Web Design course.
 
-Live Demo: https://Ankankun.github.io/cafe-menu/
-Repository: https://github.com/Ankankun/cafe-menu
+Live Demo: https://Ankankun.github.io/Cafe-menu/
+Repository: https://github.com/Ankankun/Cafe-menu
 
 ## Features
 - Responsive layout

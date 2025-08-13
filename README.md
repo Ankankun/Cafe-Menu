@@ -2,8 +2,7 @@
 
 A simple, responsive cafe menu built as part of my learning journey through freeCodeCamp’s Responsive Web Design course.
 
-Live Demo: https://Ankankun.github.io/Cafe-menu/
-Repository: https://github.com/Ankankun/Cafe-menu
+Live Demo: https://Ankankun.github.io/Cafe-Menu/
 
 ## Features
 - Responsive layout
@@ -17,17 +16,6 @@ Repository: https://github.com/Ankankun/Cafe-menu
 - CSS3
 - Google Fonts
 
-## Getting Started
-1. Clone this repo
-2. Open `index.html` in your browser
-
-## Deploy on GitHub Pages
-1. Push this repo to GitHub (see steps below).
-2. On GitHub: Settings → Pages → “Deploy from a branch”
-3. Select branch `main` and folder `/root`, Save.
-4. Wait for the “Pages build and deployment” to finish. Your site will be live at:
-   https://YOUR-USERNAME.github.io/cafe-menu/
-
 ## What I learned
 - Building a semantic, responsive page
 - Typography and spacing fundamentals
@@ -35,4 +23,5 @@ Repository: https://github.com/Ankankun/Cafe-menu
 - Small accessibility improvements (focus styles, link states)
 
 ## Screenshot
-Add a screenshot here once deployed!
+<img width="1897" height="971" alt="image" src="https://github.com/user-attachments/assets/e655fadc-2c49-4fcb-936a-528b674457a0" />
+
